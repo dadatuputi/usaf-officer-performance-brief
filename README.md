@@ -26,9 +26,12 @@ The workbook contains 8 sheets:
 ## Usage Instructions
 
 ### Getting Started
-1. Download the latest version of the worksheet
-2. Enable editing if prompted
-3. Save a copy with a filename that includes the rated officer's name and evaluation period
+1. Get the latest version of the worksheet
+    - Navigate to the [Releases](../../releases) section of this repository
+    - Download the latest release by clicking on the ZIP file under "Assets"
+    - Extract the ZIP file to your preferred location
+2. Open the extracted OPB Worksheet Excel file (.xlsx)
+3. Enable editing if prompted
 
 ### Step-by-Step Guide
 1. **Start with Sheet 0**: Complete the duty description first
