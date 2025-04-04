@@ -1,5 +1,9 @@
 # 📋 Officer Performance Brief (OPB) Worksheet
 
+![a screenshot of the OPB report overview](screenshot0.png)
+
+![a screenshot of the OPB executing the mission worksheet](screenshot1.png)
+
 ## 🔍 Overview
 This Excel-based Officer Performance Brief (OPB) / Airman Leadership Quality (ALQ) worksheet provides a structured tool for preparing annual performance evaluations for Air Force officers. The worksheet guides evaluators through the entire process of creating performance statements that meet USAF requirements per AFI 36-2406.
 
